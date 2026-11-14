@@ -1,13 +1,13 @@
-package com.slt;
+package com.sltr.order;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MiniShopApplication {
+public class OrderServiceApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(MiniShopApplication.class, args);
+        SpringApplication.run(OrderServiceApplication.class, args);
     }
 
 }
